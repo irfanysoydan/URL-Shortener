@@ -1,0 +1,12 @@
+POST http://localhost:3000/url/shorten
+Content-Type: application/json
+
+{
+    "url": "https://www.google.com/",
+    "custom": ""
+    
+}
+
+###
+
+GET http://localhost:3000/agsjlknsd
